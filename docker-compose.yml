@@ -48,7 +48,7 @@ services:
       POSTGRES_PASSWORD: pass
       POSTGRES_DB: db
       REDIS_HOST: redis
-      REDIS_PORT: 26379
+      REDIS_PORT: 6379
       SWAGGER_USER: admin
       SWAGGER_PASS: password
     ports:
